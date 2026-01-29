@@ -4,7 +4,7 @@
       "key": "vod_m3u8_collection",
       "name": "我的视频库",
       "type": 1,
-      "api": "",
+      "api": "https://raw.githubusercontent.com/YohannQin/my_test/refs/heads/main/my_video.json",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
