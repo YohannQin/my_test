@@ -1,0 +1,37 @@
+{
+  "class": [
+      { "type_id": 1, "type_name": "电影" },
+      { "type_id": 2, "type_name": "电视剧" }
+  ],
+
+  "list": [
+    {
+      "vod_id": "author_smith_series",
+      "vod_name": "电视剧1",
+      "vod_pic": "https://q6.itc.cn/q_70/images03/20240319/5567d75589bd46439af8e835beeac44f.png",
+      "vod_remarks": "正片",
+      "vod_year": "2026",
+      "vod_area": "自媒体",
+      "vod_actor": "约翰",
+      "vod_director": "约翰",
+      "type_name": "电视剧",
+      "vod_content": "这里是关于史密斯科普频道的详细简介，可以介绍该作者的视频主题、风格等。这段描述会显示在“详情页”。",
+      "vod_play_from": "default",
+      "vod_play_url":  "第1集$https://xxxx/12345.m3u8#第2集$https://xxxx/12345.m3u8"
+    },
+     {
+      "vod_id": "author_smith_series2",
+      "vod_name": "电影1",
+      "vod_pic": "https://q6.itc.cn/q_70/images03/20240319/5567d75589bd46439af8e835beeac44f.png",
+      "vod_remarks": "更新至第10集",
+      "vod_year": "2023",
+      "vod_area": "自媒体",
+      "vod_actor": "约翰·史密斯",
+      "vod_director": "约翰·史密斯",
+      "type_name": "电影",
+      "vod_content": "暂无",
+      "vod_play_from": "default",
+      "vod_play_url":  "官方$https://xxxx/12345.m3u8"
+    }
+  ]
+}
