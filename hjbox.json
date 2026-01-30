@@ -1,0 +1,33 @@
+{
+  "sites": [
+    {
+      "key": "vod_m3u8_collection",
+      "name": "我的视频库",
+      "type": 1,
+      "api": "file:///storage/emulated/0/111/haijiao/conf/hjbox_media.json",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+      },
+    {
+      "key": "色播聚合1",
+      "name": "🔞色播聚合",
+      "type": 3,
+      "api": "file:///storage/emulated/0/111/haijiao/conf/色播聚合.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "海角",
+      "name": "🔞海角py",
+      "type": 3,
+      "api": "file:///storage/emulated/0/111/haijiao/conf/haijiao.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    }
+  ]
+}
