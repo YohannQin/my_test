@@ -28,13 +28,15 @@ class Spider(Spider):
 			}
 		]
 
+        data = self.fetch(self.raw_json).json()
+        self.log(data)
         result = {
-			"page": pg,
-			"pagecount": 1,
-			"limit": len(videos),
-			"total": len(videos),
-			"list": videos
-		}
+            "page": pg,
+            "pagecount": 1,
+            "limit": len(videos),
+            "total": len(videos),
+            "list": videos
+        }
 		return result
 
 	def detailContent(self,array):
