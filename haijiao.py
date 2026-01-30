@@ -7,7 +7,9 @@ from base.spider import Spider
 class Spider(Spider):
 	def init(self,extend=""):
 		self.base_url='http://api.hclyz.com:81/mf'
-		self.raw_json = "https://ghfast.top/https://raw.githubusercontent.com/YohannQin/my_test/refs/heads/main/my_video.json"
+		self.raw_json = "https://ghfast.top/https://raw.githubusercontent.com/YohannQin/my_test/refs/heads/main/hjbox_media.json"
+		self.media_json_data = None
+		self.id_map = None
 
 	def homeContent(self,filter):
 		classes = [{"type_name": "博主","type_id":"author"}]
@@ -29,6 +31,9 @@ class Spider(Spider):
 		data = self.fetch(self.raw_json).json()
 		self.log(data)
 		videos = data['list']
+		self.media_json_data = data['list']
+		self.id_map = {item["vod_id"]: item for item in self.media_json_data}
+		self.log(self.id_map)
 		result = {
 			"page": pg,
 			"pagecount": 1,
@@ -40,14 +45,11 @@ class Spider(Spider):
 
 	def detailContent(self,array):
 		id = array[0]
-		data = self.fetch(f'{self.base_url}/{id}').json()
-		zhubo = data['zhubo']
-		playUrls = '#'.join([f"{vod['title']}${vod['address']}" for vod in zhubo])
-		vod = [{
-			"vod_play_from": 'sebo',
-			"vod_play_url": playUrls,
-			"vod_content": 'https://github.com/fish2018',
-		}]
+		self.log(id)
+		item = self.id_map.get(id)
+		self.log(item)
+		vod = []
+		vod.append(item)
 		result = {"list": vod}
 		return result
 
