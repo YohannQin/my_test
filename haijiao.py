@@ -28,8 +28,6 @@ class Spider(Spider):
 			}
 		]
 
-        data = self.fetch(self.raw_json).json()
-        self.log(data)
         result = {
             "page": pg,
             "pagecount": 1,
