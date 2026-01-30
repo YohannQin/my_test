@@ -1,9 +1,4 @@
 {
-  "class": [
-      { "type_id": 1, "type_name": "电影" },
-      { "type_id": 2, "type_name": "电视剧" }
-  ],
-
   "list": [
     {
       "vod_id": "author_smith_series",
