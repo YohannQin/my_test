@@ -66,6 +66,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ghfast.top/https://github.com/yuanwangokk-1/TV-BOX/blob/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/json/溏心次元.json"
+    },
+    {
+      "key": "✨51吸瓜✨",
+      "name": "✨51吸瓜.py✨",
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/YohannQin/TV-BOX/blob/main/Jsm/PY/51%E5%90%B8%E7%93%9C.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
     }
   ]
 }
