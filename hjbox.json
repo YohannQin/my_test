@@ -1,8 +1,8 @@
 {
   "sites": [
     {
-      "key": "色播聚合1",
-      "name": "🔞色播聚合",
+      "key": "色播聚合",
+      "name": "直播|色播聚合",
       "type": 3,
       "api": "file:///storage/emulated/0/111/haijiao/conf/色播聚合.py",
       "searchable": 1,
@@ -19,6 +19,41 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0
-    }
+    },
+    {
+      "key":"海角社区",
+      "name":"🔞海角社区",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "https://ghfast.top/https://github.com/zhangfdzr/se/tree/main/jar/o.jar", 
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+        "主页url":"https://admit.piysygf.xyz/",
+        "直接播放":"1",
+        "搜索模式":"1",
+        "数组":"<div class=\"xqbj-list-rows-image\">&&<div class=\"xqbj-list-rows-image-title text-line-ellipsis-2\">",
+        "图片":"",
+        "标题":"title=\"&&\"", 
+        "链接":"<a href=\"&&\"",
+        "搜索url":"",
+        "分类url":"https://both.mzzmpld.xyz/category/{cateId}/{catePg}/",
+        "分类":"海角乱伦$hjll#海角原创$hjyc#海角搬运$hjby#海角吃瓜$hjcg#海角看片$hjkp#海角网黄$hjwh#海角探花$hjth#海角动漫$hjdm#原创招募$yczm"
+      }
+    },
+     {
+      "key": "✨糖心次元✨",
+      "name": "✨糖心次元✨",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "jar": "https://ghfast.top/https://github.com/yuanwangokk-1/TV-BOX/tree/main/Aries/jar/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""https://ghfast.top/https://github.com/yuanwangokk-1/TV-BOX/tree/main/Aries/lib/糖心次元.json"
+    },
+
   ]
 }
