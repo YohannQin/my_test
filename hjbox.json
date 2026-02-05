@@ -42,7 +42,7 @@
         "分类":"海角乱伦$hjll#海角原创$hjyc#海角搬运$hjby#海角吃瓜$hjcg#海角看片$hjkp#海角网黄$hjwh#海角探花$hjth#海角动漫$hjdm#原创招募$yczm"
       }
     },
-     {
+    {
       "key": "✨糖心次元✨",
       "name": "✨糖心次元✨",
       "type": 3,
@@ -53,7 +53,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ghfast.top/https://github.com/yuanwangokk-1/TV-BOX/tree/main/Aries/lib/糖心次元.json"
-    },
-
+    }
   ]
 }
