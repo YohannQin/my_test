@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghfast.top/https://github.com/yuanwangokk-1/TV-BOX/tree/main/Aries/lib/pg.jar",
+  "spider": "https://ghfast.top/https://github.com/yuanwangokk-1/TV-BOX/tree/blob/Aries/lib/pg.jar",
   "sites": [
     {
       "key": "色播聚合",
@@ -26,7 +26,7 @@
       "name":"🔞海角社区",
       "type":3,
       "api":"csp_XBPQ",
-      "jar": "https://ghfast.top/https://github.com/zhangfdzr/se/tree/main/jar/o.jar", 
+      "jar": "https://ghfast.top/https://github.com/zhangfdzr/se/blob/main/jar/o.jar", 
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
@@ -49,11 +49,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://ghfast.top/https://github.com/yuanwangokk-1/TV-BOX/tree/main/Aries/jar/xyqxbpq.jar",
+      "jar": "https://ghfast.top/https://github.com/yuanwangokk-1/TV-BOX/tree/blob/Aries/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/yuanwangokk-1/TV-BOX/tree/main/Aries/lib/糖心次元.json"
+      "ext": "https://ghfast.top/https://github.com/yuanwangokk-1/TV-BOX/tree/blob/Aries/lib/糖心次元.json"
     }
   ]
 }
