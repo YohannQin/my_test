@@ -54,6 +54,18 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ghfast.top/https://github.com/yuanwangokk-1/TV-BOX/blob/main/Aries/lib/糖心次元.json"
+    },
+    {
+      "key": "溏心次元",
+      "name": "✨Aries|溏心次元✨",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "jar": "https://ghfast.top/https://github.com/yuanwangokk-1/TV-BOX/blob/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/jar/xyq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://github.com/yuanwangokk-1/TV-BOX/blob/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/json/溏心次元.json"
     }
   ]
 }
