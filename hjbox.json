@@ -75,6 +75,18 @@
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0
-    }
+    },
+    {
+      "key": "麻豆视频",
+      "name": "✨Aries|麻豆视频✨",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/jar/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/YohannQin/TV-BOX/refs/heads/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/json/%E9%BA%BB%E8%B1%86%E8%A7%86%E9%A2%91.json"
+  },
   ]
 }
