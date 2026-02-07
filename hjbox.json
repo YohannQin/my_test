@@ -109,7 +109,7 @@
           "请求头": "User-Agent$MOBILE_UA",
           "过滤词": "https://upload.xchina.io",
           "主页url": "https://xchina.fit/categories.html",
-          "数组": "item video\">&&</div[包含:clock]",
+          "数组": "item video\">&&</a",
           "图片": "background-image:url('&&')",
           "标题": "title=\"&&\"",
           "副标题": "clock\"&&</div",
