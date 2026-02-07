@@ -112,7 +112,7 @@
           "数组": "item video\">&&clock",
           "图片": "background-image:url('&&')",
           "标题": "title=\"&&\"",
-          "副标题": "clock\"&&</div",
+          "副标题": "comments\"&&<i class",
           "简介": "twitter:title\" content=\"&&\"",
           "链接": "href=\"&&\"",
           "搜索模式": "1",
