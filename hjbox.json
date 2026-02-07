@@ -112,7 +112,7 @@
           "数组": "item video\">&&</div></div></div[包含:clock]",
           "图片": "background-image:url('&&')",
           "标题": "title=\"&&\"",
-          "副标题": "fa-clock\"></i>&&</div><div>[包含::]",
+          "副标题": "fa-clock\"></i>&&</div><div>[包含:\:]",
           "简介": "twitter:title\" content=\"&&\"",
           "链接": "href=\"&&\"",
           "搜索模式": "1",
