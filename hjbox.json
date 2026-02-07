@@ -62,9 +62,13 @@
       "api": "csp_XBPQ",
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/jar/xyqxbpq.jar",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/YohannQin/TV-BOX/refs/heads/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/json/%E6%BA%8F%E5%BF%83%E6%AC%A1%E5%85%83.json"
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/YohannQin/TV-BOX/refs/heads/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/json/%E6%BA%8F%E5%BF%83%E6%AC%A1%E5%85%83.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
     },
     {
       "key": "✨51吸瓜✨",
