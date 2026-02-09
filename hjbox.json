@@ -112,7 +112,7 @@
           "数组": "item video\">&&clock",
           "图片": "background-image:url('&&')",
           "标题": "title=\"&&\"",
-          "副标题": "fa-comments\"*</div><div>&&<div>",
+          "副标题": "comments\"></i>&&</div><div><i",
           "简介": "twitter:title\" content=\"&&\"",
           "链接": "href=\"&&\"",
           "搜索模式": "1",
@@ -123,7 +123,7 @@
           "分类url": "https://xchina.fit/videos/series-{cateId}/{catePg}.html;;z",
           "主演": "model-container\"&&</div",
           "导演": "tag\"&&</div",
-          "影片类型": "11+file\"&&\"item"
+          "影片类型": "file\"&&\"item"
       },
       "style": {
         "type": "rect",
