@@ -113,7 +113,7 @@
           "图片": "background-image:url('&&')",
           "标题": "title=\"&&\"",
           "副标题": "comments\"></i>*div><div>&&</div><div><i class=\"far",
-          "简介": "11111",
+          "简介": "11+name\"&&description",
           "链接": "href=\"&&\"",
           "搜索模式": "1",
           "搜索url": "https://xchina.fit/videos/series-id/{pg}.html?wd={wd}",
