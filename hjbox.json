@@ -129,6 +129,21 @@
         "type": "rect",
         "ratio": 1.77
       }
+    },
+    {
+      "key": "小黄书|XYQHiker",
+      "name": "小黄书|XYQHiker",
+      "type": 3,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/jar/xyq.jar",
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/YohannQin/TV-BOX/e3bd35ba9f168a07e53c88a8049fa7a8ffa0587b/%E7%BA%AF%E7%A6%8F%E5%88%A9/XYQHike/%E5%B0%8F%E9%BB%84%E4%B9%A6.json"
+      "style": {
+        "type": "rect",
+        "ratio": 1.77
+      }
     }
   ]
 }
