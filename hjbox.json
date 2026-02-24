@@ -55,7 +55,7 @@
         "主页url":"https://admit.piysygf.xyz/",
         "直接播放":"1",
         "搜索模式":"1",
-        "数组":"<div class=\"xqbj-list-rows-image\">&&text is_mobile\">",
+        "数组":"<div class=\"xqbj-list-rows-image\">&&is_mobile\">",
         "图片":"",
         "标题":"title=\"&&\"", 
         "副标题":"is-desktop\">&&<", 
