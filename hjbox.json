@@ -22,7 +22,7 @@
     },
     {
       "key":"海角社区",
-      "name":"海角网",
+      "name":"海角社区",
       "type":3,
       "api":"csp_XBPQ",
       "jar": "https://ghfast.top/https://github.com/zhangfdzr/se/blob/main/jar/o.jar", 
@@ -40,6 +40,28 @@
         "搜索url":"",
         "分类url":"https://both.mzzmpld.xyz/category/{cateId}/{catePg}/",
         "分类":"海角乱伦$hjll#海角原创$hjyc#海角搬运$hjby#海角吃瓜$hjcg#海角看片$hjkp#海角网黄$hjwh#海角探花$hjth#海角动漫$hjdm#原创招募$yczm"
+      }
+    },
+    {
+      "key":"海角网",
+      "name":"海角网",
+      "type":3,
+      "api":"csp_XBPQ",
+      "jar": "https://ghfast.top/https://github.com/zhangfdzr/se/blob/main/jar/o.jar", 
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":{
+        "主页url":"https://admit.piysygf.xyz/",
+        "直接播放":"1",
+        "搜索模式":"1",
+        "数组":"<div class=\"xqbj-list-rows-image\">&&<div class=\"xqbj-list-rows-image-title text-line-ellipsis-2\">",
+        "图片":"",
+        "标题":"title=\"&&\"", 
+        "链接":"<a href=\"&&\"",
+        "搜索url":"",
+        "分类url":"https://both.mzzmpld.xyz/{cateId}/{catePg}/",
+        "分类":"海角乱伦$category/hjll#海角原创$category/hjyc#海角搬运$category/hjby#海角吃瓜$category/hjcg#海角看片$category/hjkp#海角网黄$category/hjwh#海角探花$category/hjth#海角动漫$category/hjdm"
       }
     },
     {
