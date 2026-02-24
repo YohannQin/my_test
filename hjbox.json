@@ -56,7 +56,7 @@
         "直接播放":"1",
         "搜索模式":"1",
         "数组":"<div class=\"xqbj-list-rows-image\">&&<div class=\"xqbj-list-rows-bottom\">",
-        "图片":"z-image-loader-url="\`&&`\"",
+        "图片":"z-image-loader-url=\"`&&`\"",
         "标题":"title=\"&&\"", 
         "链接":"<a href=\"&&\"",
         "搜索url":"",
