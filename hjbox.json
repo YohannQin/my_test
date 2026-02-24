@@ -58,6 +58,7 @@
         "数组":"<div class=\"xqbj-list-rows-image\">&&is-mobile\">",
         "图片":"",
         "标题":"title=\"&&\"", 
+        "副标题":"is-desktop\">&&<", 
         "链接":"<a href=\"&&\"",
         "搜索url":"",
         "分类url":"https://both.mzzmpld.xyz/{cateId}/{catePg}/",
